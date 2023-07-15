@@ -28,27 +28,24 @@
 
 ```yaml
 name: Rizal Nur Ramadhan
-located_in: *************
+located_in: Earth
 my_job: Monitoring
-education:
-  [
+education {
     "Frontend Developer",
     "Bachelor Of Informatics Engineering",
-  ]
+  }
 
-fields_of_interests:
-  [
+fields_of_interests {
     "Web Development",
     "Mobile Development",
     "DevOps",
-  ]
-technical_background:
-  [
+  }
+technical_background {
     "Team Lead - Monitoring trainsystem",
-  ]
+  }
   
-currently_learning: ["Reactjs"]
-hobbies: ["Gaming", "Movies", "singing", "listening to music"]
+currently_learning: "Reactjs"
+hobbies: {"Gaming", "Movies", "singing", "listening to music"}
 ```
   
 ---  
