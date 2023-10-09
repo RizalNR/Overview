@@ -39,6 +39,7 @@ fields_of_interests {
     "Web Development",
     "Mobile Development",
     "DevOps",
+    "Quality Assurance",
   }
 technical_background {
     "Team Lead - Monitoring trainsystem",
